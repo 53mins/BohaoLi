@@ -23,8 +23,8 @@ I am a Ph.D. student in the School of Computer Science at Northwestern Polytechn
 
 ### **Contact & Links**
 
-* **Email (Edu):** `bh_li@mail.nwpu.edu.cn`
-* **Email (Personal):** `th53mins@outlook.com`
+* **Email (Edu):** `bh_li@mail.nwpu.edu.cn`(mailto:bh_li@mail.nwpu.edu.cn)
+* **Email (Personal):** `th53mins@outlook.com`(mailto:th53mins@outlook.com)
 * **GitHub:** [github.com/53mins](https://github.com/53mins)
 * **Bilibili:** [space.bilibili.com/341267579](https://space.bilibili.com/341267579)
 
