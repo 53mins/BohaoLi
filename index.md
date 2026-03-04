@@ -14,9 +14,9 @@ I am a Ph.D. student in the School of Computer Science at Northwestern Polytechn
 
 ### **Education**
 
-* **Ph.D. in Computer Science and Technology** (2023 - Present)
+* **PhD student in Computer Science and Technology** (2023 - Present)
     * *Northwestern Polytechnical University, Xi'an, China*
-* **B.Eng. in Computer Science and Technology** (2019 - 2023)
+* **Undergrad student in Computer Science and Technology** (2019 - 2023)
     * *Northwestern Polytechnical University, Xi'an, China*
 
 ---
