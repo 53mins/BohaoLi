@@ -1,0 +1,11 @@
+{% if site.visitor_map_enabled and site.visitor_map_script_src %}
+<section class="visitor-map-section" aria-labelledby="visitor-map-title">
+  <div class="visitor-map-section__inner">
+    <h2 id="visitor-map-title">{{ site.visitor_map_title }}</h2>
+    <p class="visitor-map-section__note">{{ site.visitor_map_note }}</p>
+    <div class="visitor-map-widget">
+      <script type="text/javascript" id="clustrmaps" src="{{ site.visitor_map_script_src }}"></script>
+    </div>
+  </div>
+</section>
+{% endif %}

@@ -12,6 +12,10 @@ repository               : "53mins/BohaoLi"
 url                      : "https://53mins.github.io/BohaoLi"
 google_scholar_stats_use_cdn : true
 google_scholar_stats_enabled : false
+visitor_map_enabled      : false
+visitor_map_title        : "Visitor Map"
+visitor_map_note         : "Powered by ClustrMaps or MapMyVisitors."
+visitor_map_script_src   :
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/

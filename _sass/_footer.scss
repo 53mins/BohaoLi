@@ -90,3 +90,44 @@
     }
   }
 }
+
+.visitor-map-section {
+  @include clearfix;
+  float: left;
+  width: 100%;
+  margin-top: 3rem;
+  padding: 2.5rem 1rem 3rem;
+  background: linear-gradient(180deg, rgba(#f7f7f7, 0.85) 0%, rgba(#f2f5f8, 1) 100%);
+  border-top: 1px solid $light-gray;
+}
+
+.visitor-map-section__inner {
+  margin: 0 auto;
+  max-width: 860px;
+  text-align: center;
+}
+
+.visitor-map-section__inner h2 {
+  margin: 0 0 0.4rem;
+  font-size: $type-size-3;
+}
+
+.visitor-map-section__note {
+  margin: 0 0 1.5rem;
+  color: $muted-text-color;
+  font-size: $type-size-6;
+}
+
+.visitor-map-widget {
+  display: inline-flex;
+  justify-content: center;
+  width: 100%;
+  min-height: 190px;
+}
+
+.visitor-map-widget > div,
+.visitor-map-widget iframe,
+.visitor-map-widget img,
+.visitor-map-widget canvas {
+  max-width: 100%;
+}
