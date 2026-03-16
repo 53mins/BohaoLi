@@ -15,7 +15,7 @@ I am a Ph.D. student in the School of Computer Science at Northwestern Polytechn
 Previously, I received my B.Eng. in Computer Science and Technology from Northwestern Polytechnical University in 2023. I am broadly interested in building robust visual understanding systems for challenging real-world scenes.
 
 ## News
-- *2026.03*: Our paper [CIGPose: Causal Intervention Graph Neural Network for Whole-Body Pose Estimation](https://arxiv.org/abs/2603.09418) was accepted to **CVPR 2026**. The [code and models](https://github.com/53mins/CIGPose) are publicly available.
+- *2026.02*: Our paper [CIGPose: Causal Intervention Graph Neural Network for Whole-Body Pose Estimation](https://arxiv.org/abs/2603.09418) was accepted to **CVPR 2026**. The [code and models](https://github.com/53mins/CIGPose) are publicly available.
 
 ## Publications
 
@@ -47,4 +47,3 @@ Previously, I received my B.Eng. in Computer Science and Technology from Northwe
 - Email (academic): [bh_li@mail.nwpu.edu.cn](mailto:bh_li@mail.nwpu.edu.cn)
 - Email (personal): [th53mins@outlook.com](mailto:th53mins@outlook.com)
 - GitHub: [53mins](https://github.com/53mins)
-- Bilibili: [space.bilibili.com/341267579](https://space.bilibili.com/341267579)

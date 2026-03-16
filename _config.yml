@@ -26,8 +26,8 @@ author:
   name             : "Bohao Li"
   avatar           : "https://github.com/53mins.png"
   bio              : "Ph.D. Student, Northwestern Polytechnical University"
-  location         : "Xi'an, China"
-  employer         : "School of Computer Science, Northwestern Polytechnical University"
+  location         :
+  employer         : "School of Computer Science, NWPU"
   pubmed           :
   googlescholar    :
   email            : "bh_li@mail.nwpu.edu.cn"
