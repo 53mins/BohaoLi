@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">CIGPose publication card</title>
+  <desc id="desc">A summary card for the CVPR 2026 paper CIGPose with key contributions and reported performance.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="55%" stop-color="#132a4d" />
+      <stop offset="100%" stop-color="#1d4ed8" />
+    </linearGradient>
+    <linearGradient id="panel" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#eff6ff" stop-opacity="0.16" />
+      <stop offset="100%" stop-color="#dbeafe" stop-opacity="0.04" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="675" rx="28" fill="url(#bg)" />
+  <circle cx="1010" cy="120" r="170" fill="#60a5fa" opacity="0.18" />
+  <circle cx="1080" cy="560" r="220" fill="#93c5fd" opacity="0.12" />
+  <rect x="58" y="60" width="1084" height="555" rx="24" fill="url(#panel)" stroke="#bfdbfe" stroke-opacity="0.22" />
+
+  <rect x="90" y="95" width="180" height="42" rx="21" fill="#dbeafe" />
+  <text x="180" y="122" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#1e3a8a">CVPR 2026</text>
+
+  <text x="90" y="210" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="800" fill="#ffffff">CIGPose</text>
+  <text x="90" y="262" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="600" fill="#dbeafe">
+    Causal Intervention Graph Neural Network for Whole-Body Pose Estimation
+  </text>
+
+  <text x="90" y="338" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#f8fafc">
+    Robust whole-body pose estimation with causal intervention
+  </text>
+  <text x="90" y="382" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#dbeafe">
+    Deconfounded keypoint representations plus hierarchical graph reasoning
+  </text>
+
+  <rect x="90" y="442" width="300" height="108" rx="22" fill="#0b1220" fill-opacity="0.28" stroke="#93c5fd" stroke-opacity="0.3" />
+  <text x="116" y="482" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#cbd5e1">COCO-WholeBody</text>
+  <text x="116" y="532" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="800" fill="#ffffff">67.0 AP</text>
+
+  <rect x="420" y="442" width="300" height="108" rx="22" fill="#0b1220" fill-opacity="0.28" stroke="#93c5fd" stroke-opacity="0.3" />
+  <text x="446" y="482" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#cbd5e1">With UBody</text>
+  <text x="446" y="532" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="800" fill="#ffffff">67.5 AP</text>
+
+  <rect x="744" y="442" width="308" height="108" rx="22" fill="#0b1220" fill-opacity="0.28" stroke="#93c5fd" stroke-opacity="0.3" />
+  <text x="770" y="482" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#cbd5e1">Focus</text>
+  <text x="770" y="532" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800" fill="#ffffff">Challenging scenes</text>
+
+  <text x="90" y="590" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#dbeafe">
+    Bohao Li, Zhicheng Cao, Huixian Li, Yangming Guo
+  </text>
+</svg>
