@@ -26,26 +26,15 @@
     Causal Intervention Graph Neural Network for Whole-Body Pose Estimation
   </text>
 
-  <text x="90" y="338" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#f8fafc">
-    Robust whole-body pose estimation with causal intervention
-  </text>
-  <text x="90" y="382" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#dbeafe">
-    Deconfounded keypoint representations plus hierarchical graph reasoning
-  </text>
+  <rect x="180" y="382" width="360" height="128" rx="24" fill="#0b1220" fill-opacity="0.28" stroke="#93c5fd" stroke-opacity="0.32" />
+  <text x="360" y="430" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#cbd5e1">COCO-WholeBody</text>
+  <text x="360" y="486" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="800" fill="#ffffff">67.0 AP</text>
 
-  <rect x="90" y="442" width="300" height="108" rx="22" fill="#0b1220" fill-opacity="0.28" stroke="#93c5fd" stroke-opacity="0.3" />
-  <text x="116" y="482" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#cbd5e1">COCO-WholeBody</text>
-  <text x="116" y="532" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="800" fill="#ffffff">67.0 AP</text>
+  <rect x="660" y="382" width="360" height="128" rx="24" fill="#0b1220" fill-opacity="0.28" stroke="#93c5fd" stroke-opacity="0.32" />
+  <text x="840" y="430" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#cbd5e1">With UBody</text>
+  <text x="840" y="486" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="800" fill="#ffffff">67.5 AP</text>
 
-  <rect x="420" y="442" width="300" height="108" rx="22" fill="#0b1220" fill-opacity="0.28" stroke="#93c5fd" stroke-opacity="0.3" />
-  <text x="446" y="482" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#cbd5e1">With UBody</text>
-  <text x="446" y="532" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="800" fill="#ffffff">67.5 AP</text>
-
-  <rect x="744" y="442" width="308" height="108" rx="22" fill="#0b1220" fill-opacity="0.28" stroke="#93c5fd" stroke-opacity="0.3" />
-  <text x="770" y="482" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#cbd5e1">Focus</text>
-  <text x="770" y="532" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800" fill="#ffffff">Challenging scenes</text>
-
-  <text x="90" y="590" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#dbeafe">
+  <text x="90" y="575" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#dbeafe">
     Bohao Li, Zhicheng Cao, Huixian Li, Yangming Guo
   </text>
 </svg>
