@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
   <title id="title">CIGPose publication card</title>
-  <desc id="desc">A summary card for the CVPR 2026 paper CIGPose with key contributions and reported performance.</desc>
+  <desc id="desc">A summary card for the CVPR 2026 Highlight paper CIGPose with key contributions and reported performance.</desc>
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0f172a" />
@@ -18,8 +18,8 @@
   <circle cx="1080" cy="560" r="220" fill="#93c5fd" opacity="0.12" />
   <rect x="58" y="60" width="1084" height="555" rx="24" fill="url(#panel)" stroke="#bfdbfe" stroke-opacity="0.22" />
 
-  <rect x="90" y="95" width="180" height="42" rx="21" fill="#dbeafe" />
-  <text x="180" y="122" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#1e3a8a">CVPR 2026</text>
+  <rect x="90" y="95" width="300" height="42" rx="21" fill="#dbeafe" />
+  <text x="240" y="122" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#1e3a8a">CVPR 2026 Highlight</text>
 
   <text x="90" y="210" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="800" fill="#ffffff">CIGPose</text>
   <text x="90" y="262" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="600" fill="#dbeafe">

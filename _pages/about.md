@@ -15,11 +15,11 @@ I am a Ph.D. student in the School of Computer Science at Northwestern Polytechn
 Previously, I received my B.Eng. in Computer Science and Technology from Northwestern Polytechnical University in 2023. I am broadly interested in building robust visual understanding systems for challenging real-world scenes.
 
 ## News
-- *2026.02*: Our paper [CIGPose: Causal Intervention Graph Neural Network for Whole-Body Pose Estimation](https://arxiv.org/abs/2603.09418) was accepted to **CVPR 2026**. The [code and models](https://github.com/53mins/CIGPose) are publicly available.
+- *2026.02*: Our paper [CIGPose: Causal Intervention Graph Neural Network for Whole-Body Pose Estimation](https://arxiv.org/abs/2603.09418) was accepted to **CVPR 2026** and selected as a **Highlight**. The [code and models](https://github.com/53mins/CIGPose) are publicly available.
 
 ## Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/cigpose-card.svg' alt="CIGPose publication summary card" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 Highlight</div><img src='images/cigpose-card.svg' alt="CIGPose publication summary card" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CIGPose: Causal Intervention Graph Neural Network for Whole-Body Pose Estimation](https://arxiv.org/abs/2603.09418)
