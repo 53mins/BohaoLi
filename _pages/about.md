@@ -22,9 +22,9 @@ Previously, I received my B.Eng. in Computer Science and Technology from Northwe
 
 <div class='paper-box'><div class='paper-box-text paper-box-text-only' markdown="1">
 
-Relaxation-Aligned State Control for Test-Time Scaling in Generative Combinatorial Optimization
+PACE: Partial-state Amortized Constraint Editing for Neural Combinatorial Optimization
 
-**Bohao Li**, Ying Li, Pei He, Yangming Guo
+**Bohao Li**, Chenhao Yuan, Ying Li, Pei He, Yangming Guo
 
 **NeurIPS 2026 (Poster)**
 </div>
@@ -32,9 +32,9 @@ Relaxation-Aligned State Control for Test-Time Scaling in Generative Combinatori
 
 <div class='paper-box'><div class='paper-box-text paper-box-text-only' markdown="1">
 
-PACE: Partial-state Amortized Constraint Editing for Neural Combinatorial Optimization
+Relaxation-Aligned State Control for Test-Time Scaling in Generative Combinatorial Optimization
 
-**Bohao Li**, Chenhao Yuan, Ying Li, Pei He, Yangming Guo
+**Bohao Li**, Ying Li, Pei He, Yangming Guo
 
 **NeurIPS 2026 (Poster)**
 </div>
@@ -46,7 +46,7 @@ PACE: Partial-state Amortized Constraint Editing for Neural Combinatorial Optimi
 
 **Bohao Li**, Zhicheng Cao, Huixian Li, Yangming Guo
 
-[**CVPR 2026 (Highlight)**](https://openaccess.thecvf.com/content/CVPR2026/html/Li_CIGPose_Causal_Intervention_Graph_Neural_Network_for_Whole-Body_Pose_Estimation_CVPR_2026_paper.html) / [**GitHub**](https://github.com/53mins/CIGPose)
+**CVPR 2026 (Highlight)** / [**GitHub**](https://github.com/53mins/CIGPose)
 </div>
 </div>
 
@@ -62,5 +62,5 @@ PACE: Partial-state Amortized Constraint Editing for Neural Combinatorial Optimi
 
 ## Contact
 - Email (academic): [bh_li@mail.nwpu.edu.cn](mailto:bh_li@mail.nwpu.edu.cn)
-- Email (personal): [th53mins@outlook.com](mailto:th53mins@outlook.com)
+- Email (personal): [53mins@naver.com](mailto:53mins@naver.com) / [th53mins@outlook.com](mailto:th53mins@outlook.com)
 - GitHub: [53mins](https://github.com/53mins)
