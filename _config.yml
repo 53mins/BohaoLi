@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Bohao Li"
-description              : "Research interests: computer vision, whole-body pose estimation, diffusion models, and machine learning."
+description              : "Research interests: Machine Learning, Pose Estimation, Diffusion Models, and Neural Combinatorial Optimization."
 repository               : "53mins/BohaoLi"
 url                      : "https://53mins.github.io/BohaoLi"
 google_scholar_stats_use_cdn : true

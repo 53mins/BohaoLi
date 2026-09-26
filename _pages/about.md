@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "Bohao Li is a Ph.D. student at Northwestern Polytechnical University working on computer vision, whole-body pose estimation, and machine learning."
+excerpt: "Bohao Li is a Ph.D. student at Northwestern Polytechnical University working on machine learning, pose estimation, diffusion models, and neural combinatorial optimization."
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,9 +10,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in the School of Computer Science at Northwestern Polytechnical University (NWPU), advised by Prof. [Yangming Guo](https://teacher.nwpu.edu.cn/guoyangming.html). My research interests include computer vision, whole-body pose estimation, diffusion models, and machine learning.
+I am a Ph.D. student in the School of Computer Science at Northwestern Polytechnical University (NWPU), advised by Prof. [Yangming Guo](https://teacher.nwpu.edu.cn/guoyangming.html). My research interests include machine learning, pose estimation, diffusion models, and neural combinatorial optimization.
 
-Previously, I received my B.Eng. in Computer Science and Technology from Northwestern Polytechnical University in 2023. I am broadly interested in building robust visual understanding systems for challenging real-world scenes.
+Previously, I received my B.Eng. in Computer Science and Technology from Northwestern Polytechnical University in 2023.
 
 ## News
 - *2026.09*: Two papers were accepted to **NeurIPS 2026** as posters.
@@ -46,18 +46,15 @@ PACE: Partial-state Amortized Constraint Editing for Neural Combinatorial Optimi
 
 **Bohao Li**, Zhicheng Cao, Huixian Li, Yangming Guo
 
-[**CVPR 2026**](https://openaccess.thecvf.com/content/CVPR2026/html/Li_CIGPose_Causal_Intervention_Graph_Neural_Network_for_Whole-Body_Pose_Estimation_CVPR_2026_paper.html) / [**GitHub**](https://github.com/53mins/CIGPose)
-- CIGPose treats visual context as a confounder in whole-body pose estimation and uses causal intervention to recover context-invariant keypoint representations.
-- The framework combines deconfounded keypoint embeddings with hierarchical graph reasoning to produce more anatomically plausible poses in challenging scenes.
-- On COCO-WholeBody, CIGPose-x reaches **67.0 AP** without extra training data and **67.5 AP** with the additional UBody dataset.
+[**CVPR 2026 (Highlight)**](https://openaccess.thecvf.com/content/CVPR2026/html/Li_CIGPose_Causal_Intervention_Graph_Neural_Network_for_Whole-Body_Pose_Estimation_CVPR_2026_paper.html) / [**GitHub**](https://github.com/53mins/CIGPose)
 </div>
 </div>
 
 ## Research Interests
-- Computer Vision
-- Whole-Body Pose Estimation
-- Diffusion Models
 - Machine Learning
+- Pose Estimation
+- Diffusion Models
+- Neural Combinatorial Optimization
 
 ## Education
 - *2023 - Present*, Ph.D. in Computer Science and Technology, Northwestern Polytechnical University, Xi'an, China.
