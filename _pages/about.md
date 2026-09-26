@@ -15,18 +15,38 @@ I am a Ph.D. student in the School of Computer Science at Northwestern Polytechn
 Previously, I received my B.Eng. in Computer Science and Technology from Northwestern Polytechnical University in 2023. I am broadly interested in building robust visual understanding systems for challenging real-world scenes.
 
 ## News
-- *2026.02*: Our paper [CIGPose: Causal Intervention Graph Neural Network for Whole-Body Pose Estimation](https://arxiv.org/abs/2603.09418) was accepted to **CVPR 2026** and selected as a **Highlight**. The [code and models](https://github.com/53mins/CIGPose) are publicly available.
+- *2026.09*: Two papers were accepted to **NeurIPS 2026** as posters.
+- *2026.02*: Our paper [CIGPose: Causal Intervention Graph Neural Network for Whole-Body Pose Estimation](https://openaccess.thecvf.com/content/CVPR2026/html/Li_CIGPose_Causal_Intervention_Graph_Neural_Network_for_Whole-Body_Pose_Estimation_CVPR_2026_paper.html) was accepted to **CVPR 2026** and selected as a **Highlight**. The [code and models](https://github.com/53mins/CIGPose) are publicly available.
 
 ## Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 Highlight</div><img src='images/cigpose-card.svg' alt="CIGPose publication summary card" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-text paper-box-text-only' markdown="1">
 
-[CIGPose: Causal Intervention Graph Neural Network for Whole-Body Pose Estimation](https://arxiv.org/abs/2603.09418)
+Relaxation-Aligned State Control for Test-Time Scaling in Generative Combinatorial Optimization
+
+**Bohao Li**, Ying Li, Pei He, Yangming Guo
+
+**NeurIPS 2026 (Poster)**
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-text paper-box-text-only' markdown="1">
+
+PACE: Partial-state Amortized Constraint Editing for Neural Combinatorial Optimization
+
+**Bohao Li**, Chenhao Yuan, Ying Li, Pei He, Yangming Guo
+
+**NeurIPS 2026 (Poster)**
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-text paper-box-text-only' markdown="1">
+
+[CIGPose: Causal Intervention Graph Neural Network for Whole-Body Pose Estimation](https://openaccess.thecvf.com/content/CVPR2026/html/Li_CIGPose_Causal_Intervention_Graph_Neural_Network_for_Whole-Body_Pose_Estimation_CVPR_2026_paper.html)
 
 **Bohao Li**, Zhicheng Cao, Huixian Li, Yangming Guo
 
-[**arXiv**](https://arxiv.org/abs/2603.09418) / [**GitHub**](https://github.com/53mins/CIGPose)
+[**CVPR 2026**](https://openaccess.thecvf.com/content/CVPR2026/html/Li_CIGPose_Causal_Intervention_Graph_Neural_Network_for_Whole-Body_Pose_Estimation_CVPR_2026_paper.html) / [**GitHub**](https://github.com/53mins/CIGPose)
 - CIGPose treats visual context as a confounder in whole-body pose estimation and uses causal intervention to recover context-invariant keypoint representations.
 - The framework combines deconfounded keypoint embeddings with hierarchical graph reasoning to produce more anatomically plausible poses in challenging scenes.
 - On COCO-WholeBody, CIGPose-x reaches **67.0 AP** without extra training data and **67.5 AP** with the additional UBody dataset.
