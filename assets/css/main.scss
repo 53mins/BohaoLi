@@ -112,3 +112,11 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.page__content h2 .fas {
+    color: $info-color;
+    font-size: .85em;
+    margin-right: .4em;
+    width: 1.1em;
+    text-align: center;
+}
