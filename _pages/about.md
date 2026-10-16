@@ -34,7 +34,7 @@ Previously, I received my B.Eng. in Computer Science and Technology from Northwe
 
 ## <i class="fas fa-bullhorn" aria-hidden="true"></i> News
 - *2026.09*: [PACE](https://openreview.net/forum?id=sJ8pDLLENR) and [RAGenCO](https://openreview.net/forum?id=dkHKGHN1xC) were accepted to **NeurIPS 2026** as posters.
-- *2026.02*: Our paper [CIGPose: Causal Intervention Graph Neural Network for Whole-Body Pose Estimation](https://openaccess.thecvf.com/content/CVPR2026/html/Li_CIGPose_Causal_Intervention_Graph_Neural_Network_for_Whole-Body_Pose_Estimation_CVPR_2026_paper.html) was accepted to **CVPR 2026** and selected as a **Highlight**. The [code and models](https://github.com/53mins/CIGPose) are publicly available.
+- *2026.02*: Our paper [CIGPose: Causal Intervention Graph Neural Network for Whole-Body Pose Estimation](https://openaccess.thecvf.com/content/CVPR2026/html/Li_CIGPose_Causal_Intervention_Graph_Neural_Network_for_Whole-Body_Pose_Estimation_CVPR_2026_paper.html) was accepted to **CVPR 2026** and selected as a **Highlight**.
 
 <span class='anchor' id='publications'></span>
 
