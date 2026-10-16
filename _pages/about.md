@@ -44,9 +44,9 @@ Previously, I received my B.Eng. in Computer Science and Technology from Northwe
 
 [PACE: Partial-state Amortized Constraint Editing for Neural Combinatorial Optimization](https://openreview.net/forum?id=sJ8pDLLENR)
 
-**Bohao Li**, Chenhao Yuan, Ying Li, Pei He, Yangming Guo
+**Bohao Li**, Chenhao Yuan, Pei He, Ying Li, Yangming Guo
 
-**NeurIPS 2026 (Poster)** / [**GitHub**](https://github.com/53mins/PACE)
+**NeurIPS 2026** / [**GitHub**](https://github.com/53mins/PACE)
 </div>
 </div>
 
@@ -54,9 +54,9 @@ Previously, I received my B.Eng. in Computer Science and Technology from Northwe
 
 [Relaxation-Aligned State Control for Test-Time Scaling in Generative Combinatorial Optimization (RAGenCO)](https://openreview.net/forum?id=dkHKGHN1xC)
 
-**Bohao Li**, Ying Li, Pei He, Yangming Guo
+**Bohao Li**, Yangming Guo, Pei He, Ying Li
 
-**NeurIPS 2026 (Poster)** / [**GitHub**](https://github.com/53mins/RAGenCO)
+**NeurIPS 2026** / [**GitHub**](https://github.com/53mins/RAGenCO)
 </div>
 </div>
 
