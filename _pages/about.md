@@ -12,7 +12,9 @@ redirect_from:
 
 ## <i class="fas fa-user" aria-hidden="true"></i> About
 
-I am a Ph.D. student in Computer Science and Technology at Northwestern Polytechnical University, advised by Prof. [Yangming Guo](https://teacher.nwpu.edu.cn/guoyangming.html). I build structure-aligned neural inference systems whose intermediate states respect causal structure, graphs, and discrete constraints. My current work focuses on neural combinatorial optimization, where mathematical relaxations control soft generative states, feasible partial states connect training with search, and constraint propagation turns learned commitments into feasible decisions.
+I am a Ph.D. student in the School of Computer Science at Northwestern Polytechnical University (NWPU), advised by Prof. [Yangming Guo](https://teacher.nwpu.edu.cn/guoyangming.html). My research interests include machine learning, pose estimation, diffusion models, and neural combinatorial optimization.
+
+Previously, I received my B.Eng. in Computer Science and Technology from Northwestern Polytechnical University in 2023.
 
 <span class='anchor' id='education'></span>
 
@@ -23,16 +25,15 @@ I am a Ph.D. student in Computer Science and Technology at Northwestern Polytech
 <span class='anchor' id='research-interests'></span>
 
 ## <i class="fas fa-flask" aria-hidden="true"></i> Research Interests
-- Structure-Aligned Neural Inference
 - Neural Combinatorial Optimization
-- Test-Time Scaling and Generative Optimization
-- Constraint Propagation and Search
-- Causal Representation Learning for Pose Estimation
+- Generative Models
+- Pose Estimation
+- Machine Learning
 
 <span class='anchor' id='news'></span>
 
 ## <i class="fas fa-bullhorn" aria-hidden="true"></i> News
-- *2026.09*: PACE and RAGenCO were accepted to **NeurIPS 2026** as posters.
+- *2026.09*: [PACE](https://openreview.net/forum?id=sJ8pDLLENR) and [RAGenCO](https://openreview.net/forum?id=dkHKGHN1xC) were accepted to **NeurIPS 2026** as posters.
 - *2026.02*: Our paper [CIGPose: Causal Intervention Graph Neural Network for Whole-Body Pose Estimation](https://openaccess.thecvf.com/content/CVPR2026/html/Li_CIGPose_Causal_Intervention_Graph_Neural_Network_for_Whole-Body_Pose_Estimation_CVPR_2026_paper.html) was accepted to **CVPR 2026** and selected as a **Highlight**. The [code and models](https://github.com/53mins/CIGPose) are publicly available.
 
 <span class='anchor' id='publications'></span>
@@ -72,7 +73,7 @@ I am a Ph.D. student in Computer Science and Technology at Northwestern Polytech
 <span class='anchor' id='academic-services'></span>
 
 ## <i class="fas fa-handshake" aria-hidden="true"></i> Academic Services
-Reviewer for the **NeurIPS**, **ICML**, **ICLR**, and **AAAI** conferences.
+- Reviewer: **ICML'26 (Silver Reviewer Award)**, **NeurIPS'26**, **ICLR'26-27**, **AAAI'26-27**.
 
 <span class='anchor' id='contact'></span>
 
