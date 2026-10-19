@@ -54,7 +54,7 @@ Previously, I received my B.Eng. in Computer Science and Technology from Northwe
 
 [Relaxation-Aligned State Control for Test-Time Scaling in Generative Combinatorial Optimization (RAGenCO)](https://openreview.net/forum?id=dkHKGHN1xC)
 
-**Bohao Li**, Yangming Guo, Pei He, Ying Li
+**Bohao Li**, Pei He, Yangming Guo, Ying Li
 
 **NeurIPS 2026** / [**GitHub**](https://github.com/53mins/RAGenCO)
 </div>
