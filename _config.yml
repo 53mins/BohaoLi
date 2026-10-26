@@ -14,7 +14,7 @@ google_scholar_stats_use_cdn : true
 google_scholar_stats_enabled : false
 visitor_map_enabled      : true
 visitor_map_title        : "Visitor Map"
-visitor_map_note         : "Historical visitors are shown in red; your current visit is shown in green."
+visitor_map_note         : ""
 visitor_map_script_src   : "//mapmyvisitors.com/map.js?d=HFUgaEXYKozR95L_iXzdtfwp1v7KSDxDzP2xl1FWJdw&cl=ffffff&w=a"
 
 # google analytics
