@@ -44,8 +44,10 @@
     display: grid;
     gap: 1.5em;
     align-items: center;
-    border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
+    margin: 1.5em 0;
+    padding: 1.25em;
+    border: 1px solid #e5e7eb;
+    border-radius: 10px;
 
     .paper-box-image{
         width: 100%;
