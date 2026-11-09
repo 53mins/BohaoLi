@@ -43,7 +43,7 @@ Previously, I received my B.Eng. in Computer Science and Technology from Northwe
 <div class='paper-box'>
 <div class='paper-box-image'>
   <span class='badge'>NeurIPS 2026</span>
-  <a href="https://openreview.net/forum?id=sJ8pDLLENR"><img src="{{ '/images/PACE.png' | relative_url }}" alt="PACE framework for constraint-preserving editing of feasible partial states" loading="lazy" width="1984" height="1123"></a>
+  <a href="https://openreview.net/forum?id=sJ8pDLLENR"><img src="{{ '/images/pace.png' | relative_url }}" alt="PACE framework for constraint-preserving editing of feasible partial states" loading="lazy" width="3415" height="1930"></a>
 </div>
 <div class='paper-box-text' markdown="1">
 
@@ -60,7 +60,7 @@ We introduce **PACE**, a framework that learns to rank constraint-preserving edi
 <div class='paper-box'>
 <div class='paper-box-image'>
   <span class='badge'>NeurIPS 2026</span>
-  <a href="https://openreview.net/forum?id=dkHKGHN1xC"><img src="{{ '/images/RAGenCO.png' | relative_url }}" alt="RAGenCO framework for projection-controlled refinement and test-time scaling" loading="lazy" width="1984" height="1185"></a>
+  <a href="https://openreview.net/forum?id=dkHKGHN1xC"><img src="{{ '/images/ragenco.png' | relative_url }}" alt="RAGenCO framework for projection-controlled refinement and test-time scaling" loading="lazy" width="2460" height="1475"></a>
 </div>
 <div class='paper-box-text' markdown="1">
 
@@ -77,7 +77,7 @@ We propose **RAGenCO**, a framework that uses projection onto task relaxations t
 <div class='paper-box'>
 <div class='paper-box-image'>
   <span class='badge'>CVPR 2026 Highlight</span>
-  <a href="https://openaccess.thecvf.com/content/CVPR2026/html/Li_CIGPose_Causal_Intervention_Graph_Neural_Network_for_Whole-Body_Pose_Estimation_CVPR_2026_paper.html"><img src="{{ '/images/CIGPose.png' | relative_url }}" alt="CIGPose architecture with causal intervention and hierarchical graph reasoning" loading="lazy" width="1563" height="896"></a>
+  <a href="https://openaccess.thecvf.com/content/CVPR2026/html/Li_CIGPose_Causal_Intervention_Graph_Neural_Network_for_Whole-Body_Pose_Estimation_CVPR_2026_paper.html"><img src="{{ '/images/cigpose.png' | relative_url }}" alt="CIGPose architecture with causal intervention and hierarchical graph reasoning" loading="lazy" width="5673" height="3289"></a>
 </div>
 <div class='paper-box-text' markdown="1">
 
