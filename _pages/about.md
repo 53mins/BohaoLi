@@ -28,7 +28,7 @@ Previously, I received my B.Eng. in Computer Science and Technology from Northwe
 - Neural Combinatorial Optimization
 - Generative Models
 - Pose Estimation
-- Machine Learning
+- Multimodal Spatial Reasoning
 
 <span class='anchor' id='news'></span>
 
@@ -51,7 +51,7 @@ Previously, I received my B.Eng. in Computer Science and Technology from Northwe
 
 **Bohao Li**, Chenhao Yuan, Pei He, Ying Li, Yangming Guo
 
-*NeurIPS 2026*. Poster. [Code](https://github.com/53mins/PACE)
+*NeurIPS 2026*. [Code](https://github.com/53mins/PACE)
 
 We introduce **PACE**, a framework that learns to rank constraint-preserving edits on feasible partial states across routing and graph optimization tasks. A task-native closure operator completes intermediate states into feasible outputs, while edit depth, refinement rounds, and candidate breadth control test-time compute.
 </div>
@@ -68,7 +68,7 @@ We introduce **PACE**, a framework that learns to rank constraint-preserving edi
 
 **Bohao Li**, Pei He, Yangming Guo, Ying Li
 
-*NeurIPS 2026*. Poster. [Code](https://github.com/53mins/RAGenCO)
+*NeurIPS 2026*. [Code](https://github.com/53mins/RAGenCO)
 
 We propose **RAGenCO**, a framework that uses projection onto task relaxations to control refinement states in generative combinatorial optimization. Relaxation-aligned refinement and candidate branching scale inference-time compute across TSP, ATSP, MIS, and MVC without changing the diffusion training objective.
 </div>
@@ -76,7 +76,7 @@ We propose **RAGenCO**, a framework that uses projection onto task relaxations t
 
 <div class='paper-box'>
 <div class='paper-box-image'>
-  <span class='badge'>CVPR 2026</span>
+  <span class='badge'>CVPR 2026 Highlight</span>
   <a href="https://openaccess.thecvf.com/content/CVPR2026/html/Li_CIGPose_Causal_Intervention_Graph_Neural_Network_for_Whole-Body_Pose_Estimation_CVPR_2026_paper.html"><img src="{{ '/images/CIGPose.png' | relative_url }}" alt="CIGPose architecture with causal intervention and hierarchical graph reasoning" loading="lazy" width="1563" height="896"></a>
 </div>
 <div class='paper-box-text' markdown="1">
@@ -85,7 +85,7 @@ We propose **RAGenCO**, a framework that uses projection onto task relaxations t
 
 **Bohao Li**, Zhicheng Cao, Huixian Li, Yangming Guo
 
-*CVPR 2026*. **Highlight.** [Code](https://github.com/53mins/CIGPose)
+**CVPR 2026** Highlight. [Code](https://github.com/53mins/CIGPose)
 
 We present **CIGPose**, a whole-body pose estimation framework that addresses visual confounding through causal intervention. It replaces uncertain keypoint representations with learned, context-invariant embeddings and applies hierarchical graph reasoning over skeletal and semantic relationships to produce anatomically plausible poses.
 </div>
