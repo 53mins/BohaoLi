@@ -107,6 +107,10 @@
   text-align: center;
 }
 
+.visitor-map-section__inner:not([open]) {
+  margin-left: 0;
+}
+
 .visitor-map-section__inner summary {
   width: fit-content;
   margin: 0 0 0.4rem;
