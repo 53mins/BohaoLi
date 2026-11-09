@@ -41,55 +41,45 @@
 @import "print";
 
 .paper-box {
-    display: flex;
-    justify-content: left;
+    display: grid;
+    gap: 1.5em;
     align-items: center;
-    flex-direction: row;
-    flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
     padding: 2em 0 2em 0;
-    
 
     .paper-box-image{
-        justify-content: center;
-        display: flex;
         width: 100%;
-        order: 2;
+        max-width: 440px;
+        margin: 0 auto;
+
+        .badge {
+            display: inline-block;
+            margin-bottom: 0.75em;
+            padding: 0.25em 0.75em;
+            color: white;
+            background-color: $info-color;
+            font-size: 0.8em;
+            font-weight: bold;
+        }
+
         img {
-            max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
-            object-fit: cover;
+            display: block;
+            width: 100%;
+            height: auto;
         }
     }
     
     .paper-box-text{
-        max-width: 100%;
-        order: 1;
+        min-width: 0;
+
+        p:last-child {
+            margin-bottom: 0;
+        }
     }
     
     @include breakpoint($medium) {
-        .paper-box-image{
-            justify-content: left;
-            min-width: 200px;
-            max-width: 40%;
-            order: 1;
-        }
-        
-        .paper-box-text{
-            justify-content: left;
-            padding-left: 2em;
-            max-width: 60%;
-            order: 2;
-        }
-
-        .paper-box-text-only {
-            padding-left: 0;
-            max-width: 100%;
-        }
-
+        grid-template-columns: minmax(0, 2fr) minmax(0, 3fr);
     }
-
-
 }
 
 $scroll_offset : 2em;
@@ -100,17 +90,6 @@ h1:before, .anchor:before {
     width: 0; 
     height: $scroll_offset; 
     margin-top: -$scroll_offset;
-}
-
-.badge {
-    padding-left: 1rem;
-    padding-right: 1rem;
-    position: absolute;
-    margin-top: .5em;
-    margin-left: -.5em;
-    color: white;
-    background-color: #00369f;
-    font-size: .8em;
 }
 
 .page__content h2 .fas {

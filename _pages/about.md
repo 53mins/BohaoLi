@@ -40,33 +40,54 @@ Previously, I received my B.Eng. in Computer Science and Technology from Northwe
 
 ## <i class="fas fa-file-alt" aria-hidden="true"></i> Publications
 
-<div class='paper-box'><div class='paper-box-text paper-box-text-only' markdown="1">
+<div class='paper-box'>
+<div class='paper-box-image'>
+  <span class='badge'>NeurIPS 2026</span>
+  <a href="https://openreview.net/forum?id=sJ8pDLLENR"><img src="{{ '/images/PACE.png' | relative_url }}" alt="PACE framework for constraint-preserving editing of feasible partial states" loading="lazy" width="1984" height="1123"></a>
+</div>
+<div class='paper-box-text' markdown="1">
 
-[PACE: Partial-state Amortized Constraint Editing for Neural Combinatorial Optimization](https://openreview.net/forum?id=sJ8pDLLENR)
+**[PACE: Partial-state Amortized Constraint Editing for Neural Combinatorial Optimization](https://openreview.net/forum?id=sJ8pDLLENR)**
 
 **Bohao Li**, Chenhao Yuan, Pei He, Ying Li, Yangming Guo
 
-**NeurIPS 2026** / [**GitHub**](https://github.com/53mins/PACE)
+*NeurIPS 2026*. Poster. [Code](https://github.com/53mins/PACE)
+
+We introduce **PACE**, a framework that learns to rank constraint-preserving edits on feasible partial states across routing and graph optimization tasks. A task-native closure operator completes intermediate states into feasible outputs, while edit depth, refinement rounds, and candidate breadth control test-time compute.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-text paper-box-text-only' markdown="1">
+<div class='paper-box'>
+<div class='paper-box-image'>
+  <span class='badge'>NeurIPS 2026</span>
+  <a href="https://openreview.net/forum?id=dkHKGHN1xC"><img src="{{ '/images/RAGenCO.png' | relative_url }}" alt="RAGenCO framework for projection-controlled refinement and test-time scaling" loading="lazy" width="1984" height="1185"></a>
+</div>
+<div class='paper-box-text' markdown="1">
 
-[Relaxation-Aligned State Control for Test-Time Scaling in Generative Combinatorial Optimization (RAGenCO)](https://openreview.net/forum?id=dkHKGHN1xC)
+**[Relaxation-Aligned State Control for Test-Time Scaling in Generative Combinatorial Optimization (RAGenCO)](https://openreview.net/forum?id=dkHKGHN1xC)**
 
 **Bohao Li**, Pei He, Yangming Guo, Ying Li
 
-**NeurIPS 2026** / [**GitHub**](https://github.com/53mins/RAGenCO)
+*NeurIPS 2026*. Poster. [Code](https://github.com/53mins/RAGenCO)
+
+We propose **RAGenCO**, a framework that uses projection onto task relaxations to control refinement states in generative combinatorial optimization. Relaxation-aligned refinement and candidate branching scale inference-time compute across TSP, ATSP, MIS, and MVC without changing the diffusion training objective.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-text paper-box-text-only' markdown="1">
+<div class='paper-box'>
+<div class='paper-box-image'>
+  <span class='badge'>CVPR 2026</span>
+  <a href="https://openaccess.thecvf.com/content/CVPR2026/html/Li_CIGPose_Causal_Intervention_Graph_Neural_Network_for_Whole-Body_Pose_Estimation_CVPR_2026_paper.html"><img src="{{ '/images/CIGPose.png' | relative_url }}" alt="CIGPose architecture with causal intervention and hierarchical graph reasoning" loading="lazy" width="1563" height="896"></a>
+</div>
+<div class='paper-box-text' markdown="1">
 
-[CIGPose: Causal Intervention Graph Neural Network for Whole-Body Pose Estimation](https://openaccess.thecvf.com/content/CVPR2026/html/Li_CIGPose_Causal_Intervention_Graph_Neural_Network_for_Whole-Body_Pose_Estimation_CVPR_2026_paper.html)
+**[CIGPose: Causal Intervention Graph Neural Network for Whole-Body Pose Estimation](https://openaccess.thecvf.com/content/CVPR2026/html/Li_CIGPose_Causal_Intervention_Graph_Neural_Network_for_Whole-Body_Pose_Estimation_CVPR_2026_paper.html)**
 
 **Bohao Li**, Zhicheng Cao, Huixian Li, Yangming Guo
 
-**CVPR 2026 (Highlight)** / [**GitHub**](https://github.com/53mins/CIGPose)
+*CVPR 2026*. **Highlight.** [Code](https://github.com/53mins/CIGPose)
+
+We present **CIGPose**, a whole-body pose estimation framework that addresses visual confounding through causal intervention. It replaces uncertain keypoint representations with learned, context-invariant embeddings and applies hierarchical graph reasoning over skeletal and semantic relationships to produce anatomically plausible poses.
 </div>
 </div>
 
