@@ -107,8 +107,15 @@
   text-align: center;
 }
 
+.visitor-map-section__inner summary {
+  width: fit-content;
+  margin: 0 auto 0.4rem;
+  cursor: pointer;
+}
+
 .visitor-map-section__inner h2 {
-  margin: 0 0 0.4rem;
+  display: inline;
+  margin: 0;
   font-size: $type-size-3;
 }
 
