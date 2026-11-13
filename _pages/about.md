@@ -12,7 +12,7 @@ redirect_from:
 
 ## <i class="fas fa-user" aria-hidden="true"></i> About
 
-I am a Ph.D. student in the School of Computer Science at Northwestern Polytechnical University (NWPU), advised by Prof. [Yangming Guo](https://teacher.nwpu.edu.cn/guoyangming.html). My research interests include machine learning, pose estimation, diffusion models, and neural combinatorial optimization.
+I am a Ph.D. student in the School of Computer Science at Northwestern Polytechnical University (NWPU), advised by Prof. [Yangming Guo](https://teacher.nwpu.edu.cn/guoyangming.html). My research interests include neural combinatorial optimization, generative models, pose estimation, and multimodal spatial reasoning.
 
 Previously, I received my B.Eng. in Computer Science and Technology from Northwestern Polytechnical University in 2023.
 
